@@ -1,0 +1,18 @@
+.flex-box {
+	display: flex;
+	.div {
+		  height: 80px;
+		  flex: 1;
+		  box-sizing: border-box;
+	}
+	.div1 {
+	    background-color: #fd0;
+	    display: -webkit-box;
+	}
+	.div2 {
+	    background-color: #f0f;
+	}
+}
+::placeholder {
+  color: #f00;
+}

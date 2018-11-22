@@ -1,0 +1,1 @@
+.flex-box{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}.flex-box .div{height:80px;-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;box-sizing:border-box}.flex-box .div1{background-color:#fd0;display:-webkit-box}.flex-box .div2{background-color:#f0f}::-webkit-input-placeholder{color:red}::placeholder{color:red}.div3{background-color:#aff}
