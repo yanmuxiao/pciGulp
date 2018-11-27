@@ -28,7 +28,7 @@ let distPath = './app/dist'; // 项目打包路径
 gulp.task('connect', function() {
   connect.server({
     root: 'app',
-    host: '172.28.50.57',
+    host: 'localhost',
     port: 9088,
     livereload: true,
     middleware: function (connect, opt) {
