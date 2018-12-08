@@ -1,2 +1,4 @@
-# mock.js
-mock.js入门教程
+# 开发
+npm start ==> gulp default
+# 打包
+npm run build ==> gulp build

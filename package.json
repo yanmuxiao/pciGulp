@@ -4,7 +4,8 @@
   "description": "2018gulp",
   "main": "index.js",
   "scripts": {
-    "start": "gulp default"
+    "start": "gulp default",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
